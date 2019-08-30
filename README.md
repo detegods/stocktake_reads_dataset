@@ -1,11 +1,9 @@
 # Detego Stocktake Read Events Dataset
 
-**Note: As this paper is currently under review, this repository does only contain a sample of the dataset.**
-
 This dataset was introduced in the paper "RFID in the Wild - Analyzing Stocktake Data to Determine Detection Probabilities of Products", and consists of two parts:
 
 1. Information about the individual stocktakes
-2. The read events of individual stocktakes 
+2. The RFID read events of individual stocktakes 
 
 Specifically, the dataset contains the following information about individual stocktakes in the `sample_stocktakes.csv` file:
 
@@ -25,3 +23,7 @@ Furthermore, for each stocktake all recorded items are available as well in the 
 * EpcSerial: the unique identifier of an item (EPC without company prefix)
 * Product: the identifier of the product the item is associated with
 
+
+When using the dataset please cite:
+
+M. Wölbitsch, T. Hasler, M. Goller, C. Gütl, S. Walk, and D. Helic (2019) RFID in the Wild - Analyzing Stocktake Data to Determine Detection Probabilities of Products. In Proceedings of 6th IEEE International Conference on Internet of Things: Systems, Management and Security (IOTSMS 2019)
