@@ -1,5 +1,9 @@
 # Detego Stocktake Read Events Dataset
 
+**This repository only contains a sample of the dataset, you can download the full dataset here: [mirror1](https://woelbitsch.cc/static/stocktake_reads_dataset.zip), [mirror2](https://www.simonwalk.at/datasets/2019_rfid_stocktake_reads.zip)**
+
+---
+
 This dataset was introduced in the paper "RFID in the Wild - Analyzing Stocktake Data to Determine Detection Probabilities of Products", and consists of two parts:
 
 1. Information about the individual stocktakes
@@ -26,4 +30,4 @@ Furthermore, for each stocktake all recorded items are available as well in the 
 
 When using the dataset please cite:
 
-M. Wölbitsch, T. Hasler, M. Goller, C. Gütl, S. Walk, and D. Helic (2019) RFID in the Wild - Analyzing Stocktake Data to Determine Detection Probabilities of Products. In Proceedings of 6th IEEE International Conference on Internet of Things: Systems, Management and Security (IOTSMS 2019)
+M. Wölbitsch, T. Hasler, M. Goller, C. Gütl, S. Walk, and D. Helic (2019) RFID in the Wild - Analyzing Stocktake Data to Determine Detection Probabilities of Products. In *Proceedings of 6th IEEE International Conference on Internet of Things: Systems, Management and Security* (IOTSMS 2019)
