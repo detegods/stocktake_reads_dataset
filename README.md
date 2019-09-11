@@ -1,6 +1,8 @@
 # Detego Stocktake Read Events Dataset
 
-**This repository only contains a sample of the dataset, you can download the full dataset here: [mirror1](https://woelbitsch.cc/static/stocktake_reads_dataset.zip), [mirror2](https://www.simonwalk.at/datasets/2019_rfid_stocktake_reads.zip)**
+**This repository only contains a sample of the dataset, you can download the full dataset here: [mirror1](https://woelbitsch.cc/static/stocktake_reads_dataset.zip), [mirror2](https://www.simonwalk.at/datasets/2019_rfid_stocktake_reads.zip), [mirror3](ftp://public@files.detego.com/Detego/Datasets/rfid_read_dataset.zip)**
+
+
 
 ---
 
